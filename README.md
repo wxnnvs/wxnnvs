@@ -1,7 +1,10 @@
-Im wxnnvs (frfr)
+I. AM. WXNNVS.
 
-I (kind of) code (more like making forks)
+🎓 Ugrading my skills
+💼 Accepting job offers **for free**!
+📈 Improving every day
 
-I (really) love pasta
-
-Languages: Python, Scratch, Javascript (console.log 'n stuff), Java (learning still)(like all of them xD)
+Currently working on:
+- Smartschool Reloaded
+- Personal site
+- Some other stuff ...
