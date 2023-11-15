@@ -2,11 +2,11 @@ I. AM. WXNNVS.
 
 🎓 Ugrading my skills
 
-💼 Accepting job offers **for free**!
+🏫 Leaking school files
 
 📈 Improving every day
 
 Currently working on:
-- Smartschool Reloaded
-- Personal site
+- [Schoolstuff](https://github.com/wxnnvs/schoolstuff)
+- [AutoEagler](https://github.com/wxnnvs/AutoEagler)
 - Some other stuff ...
