@@ -7,6 +7,6 @@ I. AM. WXNNVS.
 📈 Improving every day
 
 Currently working on:
-- [Schoolstuff](https://github.com/wxnnvs/schoolstuff)
+- [Schoolstuff](https://github.com/wxnnvs/school)
 - [AutoEagler](https://github.com/wxnnvs/AutoEagler)
 - Some other stuff ...
