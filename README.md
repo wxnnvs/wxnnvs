@@ -1,13 +1,5 @@
-I. AM. WXNNVS.
-
-🎓 Ugrading my skills
-
-🏫 Leaking school files
-
-📈 Improving every day
+My names is Wannes, Im a 15-year old hobbyist programmer.
+I like FLOSS, privacy and exploits
 
 Currently working on:
-- [Schoolstuff](https://github.com/wxnnvs/school)
-- [Uber Eats scraper](https://github.com/wxnnvs/UberEatsScraper)
-- [AutoEagler](https://github.com/wxnnvs/AutoEagler)
-- Some other stuff ...
+- [UnSafe Exam Browser](https://github.com/wxnnvs/seb-win-bypass/releases)
