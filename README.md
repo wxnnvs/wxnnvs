@@ -2,6 +2,7 @@ My names is Wannes,
 
 Im a ~~15~~ ~~16~~ 17-year old hobbyist programmer
 
-Im learning GO, NodeJS in general and NextJS specifically.
+Im doing various stuff in various ways.
 
 [wannesg.be](https://wannesg.be)
+[wannes.cc](https://wannes.cc)
